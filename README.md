@@ -38,7 +38,7 @@ The code is available as jupyter notebooks under /02 Scripts/.
 **02. Scripts**: Scripts created during cleaning and analysis. 
 *Note: Presentation includes details on KPIs, customer stats, and revenue drivers. Further insights are available in the scripts - particularly in Derive Columns, EDA Visulizations, Geographical Visualizations.* 
     
-**05. Sent to client**: Final report, the Tableau presentation (available as link & PDF)
+**03. Final Presentation**: Final report, the Tableau presentation (available as link & PDF)
 
 ---
 

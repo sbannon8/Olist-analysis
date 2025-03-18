@@ -1,5 +1,5 @@
 # Olist-analysis
-An analysis conducted with python and presented with Tableau.
+*An analysis conducted with python and presented with Tableau.*
 
 <img src="./Olist_logo.png" alt="Olist logo" width="150"/>
 

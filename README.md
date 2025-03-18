@@ -1,7 +1,7 @@
 # Olist-analysis
 An analysis conducted with python and presented with Tableau.
 
-<img src="./Olist_logo.png" alt="Olist logo" width="300"/>
+<img src="./Olist_logo.png" alt="Olist logo" width="150"/>
 
 ### Olist Brazilian E-Commerce Analysis
 
@@ -16,7 +16,7 @@ The dataset comprises of information on the following parameters:
 - payments
 - location
   
-Data can be downloaded here: [Brazilian E-Commerce Public Dataset by Olist (provided by Kaggle)]([https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?select=olist_order_items_dataset.csv]).
+Data, obtained via Kaggle, can be downloaded here: [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?select=olist_order_items_dataset.csv).
 
 #### Tools
 For this project, the following python libraries were used:
@@ -41,4 +41,4 @@ The code is available as jupyter notebooks under /02 Scripts/.
 **05. Sent to client**: Final report, the Tableau presentation (available as link & PDF)
 
 ### Presentation Link: 
-[Final Presentation] ([https://public.tableau.com/app/profile/sarah.bannon/viz/OlistProject_17416222663780/OlistAnalysis?publish=yes])
+[Final Presentation] (https://public.tableau.com/app/profile/sarah.bannon/viz/OlistProject_17416222663780/OlistAnalysis?publish=yes)

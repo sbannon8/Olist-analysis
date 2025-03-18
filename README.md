@@ -41,4 +41,4 @@ The code is available as jupyter notebooks under /02 Scripts/.
 **05. Sent to client**: Final report, the Tableau presentation (available as link & PDF)
 
 ### Presentation Link: 
-[Final Presentation] (https://public.tableau.com/app/profile/sarah.bannon/viz/OlistProject_17416222663780/OlistAnalysis?publish=yes)
+For quick access to the presenation, click [here](https://public.tableau.com/app/profile/sarah.bannon/viz/OlistProject_17416222663780/OlistAnalysis?publish=yes)
